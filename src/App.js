@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <h1>Hello world!</h1>
-        <p>Deployed from virtual server.</p>
+        <p>Deployed and updated from virtual server.</p>
       </header>
     </div>
   )
